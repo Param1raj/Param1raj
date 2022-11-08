@@ -10,6 +10,8 @@
 
 - 💻 I’m currently working on **My portfolio.**
  
+- 🤝 Looking for help with **API for option market data.**
+ 
 - 💬 Ask me about **React, Nodejs, JavaScript.**
 
 - 📫 How to reach me **pr6587424@gmail.com**
@@ -42,7 +44,7 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Param1raj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Param1raj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Param1raj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Param1raj&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
