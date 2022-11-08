@@ -1,4 +1,4 @@
-<a href="#"><img width="1010px" height="350px" src="https://www.greenpeace.org/static/planet4-handbook-stateless/2018/05/a62c7e2a-deploy-me-baby.gif" /></a>
+<a href="#"><img width="1010px" height="450px" src="https://github.com/Param1raj/Param1raj/blob/main/Blue%20Black%20Minimal%20Gaming%20Twitch%20Screen.gif" /></a>
 <h1 align="center">Hi 👋, I'm PARAM RAJ</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
