@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **pr6587424@gmail.com**
 
+- 💻 <a href="https://param1raj.github.io/">Portfolio Link</a>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
