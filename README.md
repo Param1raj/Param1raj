@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/param raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="param raj" height="30" width="40" /></a>
+<a href="https://twitter.com/param raj" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://techcrunch.com/wp-content/uploads/2022/06/alexander-shatov-k1xf2D7jWUs-unsplash-e1654843242136.jpg?w=1390&crop=1)" alt="param raj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/param raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="param raj" height="30" width="40" /></a>
 <a href="https://codesandbox.com/pr6587424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pr6587424" height="30" width="40" /></a>
 <a href="https://fb.com/param raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="param raj" height="30" width="40" /></a>
@@ -30,7 +30,7 @@
 
 
 
-
+https://techcrunch.com/wp-content/uploads/2022/06/alexander-shatov-k1xf2D7jWUs-unsplash-e1654843242136.jpg?w=1390&crop=1
 
 
 
