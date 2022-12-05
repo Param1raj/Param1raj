@@ -41,6 +41,23 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
 
 
 
+
+<img align="right" alt="coding Animation" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/86c92470703289.5bac01355e285.gif">
+
+# Interests:
+Things I like and things i enjoy are
+
+-  🎮Playing Sudoku
+
+-  📺Watching Anime 
+ 
+-  📚Books Reading
+ 
+-  🧘‍♀️Doing Yoga & Meditation
+<br>
+<br>
+<br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Param1raj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Param1raj&theme=dark&hide_border=false)<br/>
