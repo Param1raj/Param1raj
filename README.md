@@ -42,9 +42,11 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
 
 
 
-<img align="right" alt="coding Animation" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/86c92470703289.5bac01355e285.gif">
+
 
 # Interests:
+<img align="right" alt="coding Animation" width="450" height="230" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif">
+
 Things I like and things i enjoy are
 
 -  🎮Playing Sudoku
