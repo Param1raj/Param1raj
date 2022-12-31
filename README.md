@@ -21,7 +21,6 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/param raj" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504947.png" alt="param raj" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/param raj" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="param raj" height="30" width="30" /></a>
 <a href="https://param1raj.github.io" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" alt="param_raj_424" height="30" width="30" /></a>
 </p>
