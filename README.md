@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=param1raj&label=Profile%20views&color=0e75b6&style=flat" alt="param1raj" /> </p>
 <img align="right" alt="coding Animation" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🌱 I’m currently learning **React, MongoDB,Express.**
+- 🌱 I’m currently learning **TypegraphQL, TypeORM, React-Native, Apollo-Server.**
 
-- 💻 I’m currently working on **My portfolio.**
+- 💻 I’m currently working on **Educational App**
  
 - 🤝 Looking for help with **API for option market data.**
  
